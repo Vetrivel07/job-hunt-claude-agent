@@ -1,0 +1,6 @@
+.env
+logs/
+state/
+tmp/
+job-log*.xlsx
+*.tmp
